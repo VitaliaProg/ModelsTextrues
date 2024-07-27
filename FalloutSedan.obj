@@ -1,7 +1,7 @@
 # Blender 3.6.14
 # www.blender.org
 mtllib FalloutSedan.mtl
-o sedanchassis
+o falloutsedan
 v 10.386497 -25.872995 77.625000
 v 8.698997 -25.247995 77.750000
 v 10.355247 -25.060495 77.812500
